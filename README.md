@@ -28,9 +28,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* Alan Brito
-* Elba Lazo
-* Esteban Quito
+* Mykola Getman
+* Rosa Maria Dominguez
+
 
 ## Lenguaje de programación
 
@@ -38,7 +38,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* TCL
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
@@ -46,6 +46,13 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
+TCL por sus siglas en ingles (Tool Command Language) o en español “Lenguaje de Herramientas de Comando” es un tipo de lenguaje de programación perteneciente a la categoría de lenguajes script (Lenguaje Interpretado).
+
+Fue creado por John Ousterhout con la finalidad de crear un lenguaje con una sintaxis sencilla pero sin decaer en su funcionalidad.
+
+Se utiliza para el desarrollo de prototipos, pruebas, aplicaciones script e interfaces graficas.
+
+El principal interprete es el tclsh que una de sus caracteristicas es la gran facilidad con la que se pueden implementar funciones en C/C++.
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
