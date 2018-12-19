@@ -58,7 +58,7 @@ El principal interprete es el tclsh que una de sus caracteristicas es la gran fa
 Para programar en TCL podemos utilizar el ¨tclsh¨ o uno mas avanzado como el ¨Komodo¨, para descargar el Komodo nos vamos a la pagina de ActiveState y lo descargamos.
 
 
-<img src="tcl/komodo.jpg">
+<img src="desktop/tcl/komodo.jpg">
 
 
 ## Poniendo en práctica el lenguaje
