@@ -55,7 +55,11 @@ Se utiliza para el desarrollo de prototipos, pruebas, aplicaciones script e inte
 El principal interprete es el tclsh que una de sus caracteristicas es la gran facilidad con la que se pueden implementar funciones en C/C++.
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Para programar en TCL podemos utilizar el ¨tclsh¨ o uno mas avanzado como el ¨Komodo¨, para descargar el Komodo nos vamos a la pagina de ActiveState y lo descargamos.
+
+
+<img src="tcl/komodo.jpg">
+
 
 ## Poniendo en práctica el lenguaje
 
@@ -63,11 +67,15 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 1. ¡Hola mundo!
 
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+Para Hacer el programa utilizamos el comando puts y Hola mundo!.
 
+<img src="tcl/holamundo.jpg"
 ### 2. Pirámide
 
-Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+Para la piramide 
+
+<img src="tcl/piramide1.jpg">
+<img src="tcl/piramide2.jpg">
 
 ### 3. Arrays y números aleatorios
 
