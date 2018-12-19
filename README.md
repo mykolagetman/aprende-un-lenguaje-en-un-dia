@@ -44,7 +44,7 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+
 
 TCL por sus siglas en ingles (Tool Command Language) o en español “Lenguaje de Herramientas de Comando” es un tipo de lenguaje de programación perteneciente a la categoría de lenguajes script (Lenguaje Interpretado).
 
@@ -69,13 +69,14 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 Para Hacer el programa utilizamos el comando puts y Hola mundo!.
 
-<img src="tcl/holamundo.jpg"
+![holamundo](https://user-images.githubusercontent.com/43372687/50216253-8c3f4080-0385-11e9-86d2-428179b592b0.PNG)
+
 ### 2. Pirámide
 
 Para la piramide 
 
-<img src="tcl/piramide1.jpg">
-<img src="tcl/piramide2.jpg">
+![piramide1](https://user-images.githubusercontent.com/43372687/50216358-d7f1ea00-0385-11e9-8be2-5e7cc6b2cce5.PNG)
+![piramide2](https://user-images.githubusercontent.com/43372687/50216357-d7f1ea00-0385-11e9-9404-4078b3235806.PNG)
 
 ### 3. Arrays y números aleatorios
 
