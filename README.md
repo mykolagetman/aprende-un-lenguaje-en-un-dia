@@ -48,7 +48,7 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 TCL por sus siglas en ingles (Tool Command Language) o en español “Lenguaje de Herramientas de Comando” es un tipo de lenguaje de programación perteneciente a la categoría de lenguajes script (Lenguaje Interpretado).
 
-Fue creado por John Ousterhout con la finalidad de crear un lenguaje con una sintaxis sencilla pero sin decaer en su funcionalidad.
+Fue creado por John Ousterhout en 1988 con la finalidad de crear un lenguaje con una sintaxis sencilla pero sin decaer en su funcionalidad.
 
 Se utiliza para el desarrollo de prototipos, pruebas, aplicaciones script e interfaces graficas.
 
