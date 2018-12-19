@@ -82,7 +82,7 @@ Para la piramide
 
 ### 3. Arrays y números aleatorios
 
-![array](https://user-images.githubusercontent.com/43372687/50216625-90b82900-0386-11e9-8108-461b1c130e81.png)
+Código ARRAY:
 
 set num(5) 5
 set num(6) 6
@@ -97,6 +97,11 @@ puts [array size num]
 puts $num(1)
 puts $num(4)
 puts $num(9)
+
+
+![array](https://user-images.githubusercontent.com/43372687/50216625-90b82900-0386-11e9-8108-461b1c130e81.png)
+
+
 
 
 ## Presentación de resultados
