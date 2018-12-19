@@ -78,25 +78,11 @@ Para la piramide
 ![piramide1](https://user-images.githubusercontent.com/43372687/50216358-d7f1ea00-0385-11e9-8be2-5e7cc6b2cce5.PNG)
 ![piramide2](https://user-images.githubusercontent.com/43372687/50216357-d7f1ea00-0385-11e9-9404-4078b3235806.PNG)
 
-[-.txt](https://github.com/mykolagetman/Java-Exercises/files/2694544/-.txt)
+
 
 ### 3. Arrays y números aleatorios
 
-Código Array:
-set num(5) 5
-set num(6) 6
-set num(7) 7
-set num(8) 8
-set num(9) 9
-set num(10) 10
-
-puts [array exists num]
-puts [array size num]
-
-puts $num(1)
-puts $num(4)
-puts $num(9)
-
+![array](https://user-images.githubusercontent.com/43372687/50216625-90b82900-0386-11e9-8108-461b1c130e81.png)
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
