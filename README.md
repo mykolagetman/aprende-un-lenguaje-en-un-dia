@@ -83,6 +83,8 @@ Para la piramide
 ### 3. Arrays y números aleatorios
 
 ![array](https://user-images.githubusercontent.com/43372687/50216625-90b82900-0386-11e9-8108-461b1c130e81.png)
+
+
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
