@@ -84,6 +84,20 @@ Para la piramide
 
 ![array](https://user-images.githubusercontent.com/43372687/50216625-90b82900-0386-11e9-8108-461b1c130e81.png)
 
+set num(5) 5
+set num(6) 6
+set num(7) 7
+set num(8) 8
+set num(9) 9
+set num(10) 10
+
+puts [array exists num]
+puts [array size num]
+
+puts $num(1)
+puts $num(4)
+puts $num(9)
+
 
 ## Presentación de resultados
 
