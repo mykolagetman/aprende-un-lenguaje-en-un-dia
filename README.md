@@ -86,6 +86,10 @@ Para la piramide
 
 Código ARRAY:
 
+set num(1) 1
+set num(2) 2
+set num(3) 3
+set num(4) 4
 set num(5) 5
 set num(6) 6
 set num(7) 7
