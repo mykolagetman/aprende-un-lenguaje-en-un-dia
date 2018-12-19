@@ -74,6 +74,7 @@ Para Hacer el programa utilizamos el comando puts y Hola mundo!.
 ![holamundo](https://user-images.githubusercontent.com/43372687/50216253-8c3f4080-0385-11e9-86d2-428179b592b0.PNG)
 
 ### 2. Pirámide
+https://fpiescampanillas.slack.com/files/UD048FXV2/FEXK1E1GT/-.txt
 
 Para la piramide utilizamos el siguiente codigo:
    set height 11
