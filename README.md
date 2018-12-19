@@ -82,7 +82,20 @@ Para la piramide
 
 ### 3. Arrays y números aleatorios
 
-Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+Código Array:
+set num(5) 5
+set num(6) 6
+set num(7) 7
+set num(8) 8
+set num(9) 9
+set num(10) 10
+
+puts [array exists num]
+puts [array size num]
+
+puts $num(1)
+puts $num(4)
+puts $num(9)
 
 ## Presentación de resultados
 
