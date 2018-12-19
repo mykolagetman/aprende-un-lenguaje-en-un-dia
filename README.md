@@ -77,23 +77,7 @@ Para Hacer el programa utilizamos el comando puts y Hola mundo!.
 
 
 Para la piramide utilizamos el siguiente codigo:
-   set height 11
-set spaceChar " "
-set pyramidChar ^
-set char *
-
-for {set i 0} {$i < $height} {incr i} {
-    puts -nonewline " "
-}
-    puts -nonewline "*"
-
-
-for {set i 0} {$i < $height + 1} {incr i} {
-    set indent [string repeat " " [expr {$height - $i}]]
-    set tier [string repeat $char [expr {$i*2}]]
-    puts "$indent$tier"
-    
-}
+   ![codigopiramide](https://user-images.githubusercontent.com/43372687/50217273-8bf47480-0388-11e9-96fa-7320f9e40895.PNG)
 
 ![piramide1](https://user-images.githubusercontent.com/43372687/50216358-d7f1ea00-0385-11e9-8be2-5e7cc6b2cce5.PNG)
 ![piramide2](https://user-images.githubusercontent.com/43372687/50216357-d7f1ea00-0385-11e9-9404-4078b3235806.PNG)
